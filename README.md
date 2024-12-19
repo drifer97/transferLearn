@@ -15,3 +15,5 @@ Este projeto implementa um classificador de imagens usando aprendizado por trans
 - PIL (Pillow)
 - Matplotlib
 - NumPy
+
+O Dataset ultilizado pode ser baixado nesse link: https://www.microsoft.com/en-us/download/details.aspx?id=54765  Kaggle Cats and Dogs Dataset
